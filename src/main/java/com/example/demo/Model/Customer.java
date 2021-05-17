@@ -52,7 +52,7 @@ public class Customer {
   }
   public void setGender(String gender) {
 	this.gender = gender;
-  }// Find customer details by name
+  }
    
    
 }
